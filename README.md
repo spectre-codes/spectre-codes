@@ -7,17 +7,27 @@
 </p><p align="center">
   <a href="https://tastelight-studio.vercel.app/"><img alt="TasteLight Studio live demo" src="https://img.shields.io/badge/TASTELIGHT_LIVE-5b55d4?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
   <a href="https://github.com/spectre-codes?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/EXPLORE_PROJECTS-122039?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-</p>⚡ About
+
+## ⚡ About Me
+
+```typescript
 const spectre = {
-  focus: ["Creative development", "Full-stack apps", "AI workflows"],
-  learning: ["Computer Science", "Software engineering"],
-  workingWith: ["TypeScript", "JavaScript", "Python", "Java"],
-  setup: "Fedora Linux + VS Code",
-  approach: "Build → Validate → Improve"
+  role: "Computer Science Student",
+  interests: ["Creative Development", "AI", "Full-Stack Apps"],
+  languages: ["TypeScript", "JavaScript", "Python", "Java"],
+  environment: "Fedora Linux + VS Code",
+  philosophy: "Build → Validate → Improve"
 };
+```
+
 - 🎓 Computer Science student, learning through hands-on projects.
-- 🧠 Interested in AI-assisted software, web development, and automation.
-- 🚀 Exploring ideas through hackathons and experiments.
+- 🧠 Interested in **AI-assisted software, web development, and automation**.
+- 🚀 Exploring ideas through **hackathons and experiments**.
+
+---
+
+## 🛠️ Tools & technologies
+  
 🛠️ Tools & technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,threejs,html,css,git,github,vscode,linux&amp;perline=14&amp;theme=dark" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, Three.js, HTML, CSS, Git, GitHub, VS Code, and Linux" />
