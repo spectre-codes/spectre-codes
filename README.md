@@ -14,7 +14,7 @@
 const spectre = {
   role: "Computer Science Student",
   interests: ["Creative Development", "AI", "Full-Stack Apps"],
-  languages: ["TypeScript", "JavaScript", "Python", "Java" , "C++ "],
+  languages: ["TypeScript", "JavaScript", "Python", "Java" , "C++"],
   environment: "Fedora Linux + VS Code",
   philosophy: "Build → Validate → Improve"
 };
